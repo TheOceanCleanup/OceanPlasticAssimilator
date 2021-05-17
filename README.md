@@ -1,5 +1,7 @@
 # Ocean Plastic Assimilator - v0.2
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4740408.svg)](https://doi.org/10.5281/zenodo.4740408)
+
 This repository contains the code of the Ocean Plastic Assimilator, a program to perform data assimilation on a dispersion of particles.
 
 ## 1. Runtime requirements
